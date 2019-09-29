@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Welcome to my page!
 description: Lorem ipsium
+
+show_downloads: true
+google_analytics:
+
