@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Alan's projects
 ---
 
-# TODO 
+# Project portfolio
 aaaaa
 aaabb
 bbcc
