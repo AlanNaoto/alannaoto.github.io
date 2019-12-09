@@ -1,7 +1,7 @@
 ---
 layout: project-individual
 title: CARLA dataset collector
-description: RGB, 2d bounding boxes and depth data
+description: Creating RGB, 2d bounding boxes and depth data
 ---
 
 <div class="card">
@@ -15,10 +15,11 @@ description: RGB, 2d bounding boxes and depth data
 
 [CARLA](http://carla.org/) is an open-source autonomous vehicle driving suite built on top of 
 Unreal Engine 4 which provides a Python API to manage the simulations. In this repo, I built a data
-collector on top of it, which spawns vehicles, pedestrians, and sensors (RGB, 2D bounding box and 
-depth), changes the weather conditions, and records all this data into a single HDF5 file.
+collector on top of it, which spawns vehicles, pedestrians, changes the weather to a custom set, and
+allocates sensors (RGB, 2D bounding box and depth) on random vehicles to records all data into a 
+single HDF5 file.
 
-With the data recorded from this repo, one can **build their own private dataset** to train a 
-machine learning model :blush:
+With the data recorded from this repo, one can **quickly build their own private dataset** to train 
+a machine learning model :blush:
 
 
