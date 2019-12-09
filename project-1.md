@@ -1,10 +1,24 @@
 ---
 layout: project-individual
-title: Project 1
+title: CARLA dataset collector
+description: RGB, 2d bounding boxes and depth data
 ---
 
-# Project 1 subtitle (eg short catchname?)
+<div class="card">
+    <div class="iframe-container">
+        <iframe src="https://www.youtube.com/embed/LgSwWo82wC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
-\# TODO \#
+[<img src="assets/imgs/GitHub-Mark-64px.png" width="5%">](https://github.com/AlanNaoto/carla-dataset-runner)
+[**Check my source code :hugs:**](https://github.com/AlanNaoto/carla-dataset-runner)
 
-Link [icon] to github source code and, if possible, to somewhere it could be demonstrated
+[CARLA](http://carla.org/) is an open-source autonomous vehicle driving suite built on top of 
+Unreal Engine 4 which provides a Python API to manage the simulations. In this repo, I built a data
+collector on top of it, which spawns vehicles, pedestrians, and sensors (RGB, 2D bounding box and 
+depth), changes the weather conditions, and records all this data into a single HDF5 file.
+
+With the data recorded from this repo, one can **build their own private dataset** to train a 
+machine learning model :blush:
+
+

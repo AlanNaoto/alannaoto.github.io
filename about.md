@@ -1,14 +1,18 @@
 ---
 layout: default
-title: About myself
-description: A short bio
+title: About me
+description: Hi again
 ---
 
-## Some stuff
-Hello! I am a master's double degree student on Electrical Engineering and 
-International Automotive Engineering by Federal University of Paraná (Brazil) and Technische 
-Hochschule Ingolstadt (Germany). I've already worked on programming electrical power systems 
-simulations, and currently am working on machine learning projects applied on the automotive
-industry. Feel free to get in touch with me at ##put-link## :)  # TODO link
+# Hey there!
 
-#TODO Some pictures 
+I'm currently a research assistant at CARISSMA Forschungszentrum, developing AI projects in 
+cooperation with the automotive industry. At the same time, I'm finishing my master's double degree 
+between Federal University of Parana (Brazil) and Technische 
+Hochschule Ingolstadt (Germany) on electrical and international automotive engineering.
+
+In my spare time I enjoy building and sharing some of my programs and data exploration cases with 
+the community. Feel free to take a look around!
+
+Alan
+
