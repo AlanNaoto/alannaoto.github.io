@@ -24,10 +24,10 @@ description: Is building stuff
 <div class="card" style="float: right; width: 49%">        
     <a href="project-2.html"><img src="assets/imgs/classification_tool.png" alt="GUI for the tool"></a>
     <div class="container">
-        <h4><b><a href="project-2.html" class="project-link">Classification labeling tool</a></b></h4>
-        Helps you clean your dataset
+        <h4><b><a href="project-2.html" class="project-link">Classification labelling tool</a></b></h4>
+        Clean your dataset
         <br>
-        <a href="https://github.com/AlanNaoto/Dataset_GUI_labeling_tool"><img alt="Source code" src="assets/imgs/GitHub-Mark-64px.png" width="10%"></a>
+        <a href="https://github.com/AlanNaoto/Dataset_GUI_labelling_tool"><img alt="Source code" src="assets/imgs/GitHub-Mark-64px.png" width="10%"></a>
         <a href="project-2.html"><img alt="Project page" src="assets/imgs/project-page.png" width="7.5%"></a>
     </div>
 </div>

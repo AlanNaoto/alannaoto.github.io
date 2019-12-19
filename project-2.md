@@ -25,7 +25,7 @@ description: Cleaning our dirty dataset
         <span class="dot" onclick="currentSlide(1)"></span> 
         <span class="dot" onclick="currentSlide(2)"></span> 
     </div>
-    <a href="https://github.com/AlanNaoto/Dataset_GUI_labeling_tool"> <img src="assets/imgs/GitHub-Mark-64px.png" width="5%">
+    <a href="https://github.com/AlanNaoto/Dataset_GUI_labelling_tool"> <img src="assets/imgs/GitHub-Mark-64px.png" width="5%">
     <b>Take a peek into the source code :hugs: </b></a>
 </div>
 
