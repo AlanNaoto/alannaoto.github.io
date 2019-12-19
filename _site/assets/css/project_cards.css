@@ -2,44 +2,17 @@
 .card {    
     position: relative;    
     margin-right: 0.5%;
-    margin-bottom: 1%;
-    
+    margin-bottom: 1%;    
+
     /* Add shadows */
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
     transition: 0.3s;
     padding: 10px 7px 7px 7px;
-}
-
-.card2 {    
-    position: relative;    
-    margin-left: 0.5%;
-    margin-bottom: 1%;
-    
-    /* Add shadows */
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
-    transition: 0.3s;
-    padding: 7px 7px 7px 7px;
 }
 
 .card:hover{
     /* shadow on hover */
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
-}
-
-.card2:hover{
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
-}
-
-/* Card for the ones that occupy a whole page */
-.card {    
-    position: relative;    
-    margin-right: 0.5%;
-    margin-bottom: 1%;
-    
-    /* Add shadows */
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
-    transition: 0.3s;
-    padding: 10px 7px 7px 7px;
 }
 
 .container {        
@@ -72,7 +45,6 @@ a.project-link:active
 
 
 /* Youtube videos rescaling */
-
 .iframe-container{
     position: relative;
     width: 100%;
