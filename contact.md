@@ -9,5 +9,3 @@ description: Send me a message
 
 [<img src="assets/imgs/GitHub-Mark-64px.png" width="5%">](https://github.com/AlanNaoto)
 [Github](https://github.com/AlanNaoto)
-
-CV: TODO: *FixLink
