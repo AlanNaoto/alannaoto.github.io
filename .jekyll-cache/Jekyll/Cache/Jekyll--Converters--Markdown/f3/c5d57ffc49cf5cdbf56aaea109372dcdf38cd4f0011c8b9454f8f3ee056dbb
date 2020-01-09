@@ -1,25 +1,19 @@
----
-layout: default
-title: About me
-description: Hi again
----
-# Hey there!
+I"�<h1 id="hey-there">Hey there!</h1>
 
-I'm currently a research assistant at CARISSMA Forschungszentrum, developing AI projects in 
-cooperation with the automotive industry. At the same time, I'm finishing my master's double degree 
+<p>I’m currently a research assistant at CARISSMA Forschungszentrum, developing AI projects in 
+cooperation with the automotive industry. At the same time, I’m finishing my master’s double degree 
 between Federal University of Parana (Brazil) and Technische 
-Hochschule Ingolstadt (Germany) on electrical and international automotive engineering.
+Hochschule Ingolstadt (Germany) on electrical and international automotive engineering.</p>
 
+<p>In my spare time I enjoy building and sharing some of my programs and data exploration cases with 
+the community. Feel free to take a look around!</p>
 
-In my spare time I enjoy building and sharing some of my programs and data exploration cases with 
-the community. Feel free to take a look around!
+<p>Alan</p>
 
-Alan
+<hr />
 
----
-
-# Got papers?
-<link rel="stylesheet" href="assets/css/papers_table.css">
+<h1 id="got-papers">Got papers?</h1>
+<link rel="stylesheet" href="assets/css/papers_table.css" />
 
 <table rules="none">
   <tr class="noBorder">
@@ -32,12 +26,12 @@ Alan
     </td>
     <td>
         <a href="https://www.cired-repository.org/handle/20.500.12455/745">
-        <img alt="Paper link" src="assets/imgs/cable-detection-cired.png" width="100%" align="right"></a>
+        <img alt="Paper link" src="assets/imgs/cable-detection-cired.png" width="100%" align="right" /></a>
     </td>
   </tr>
 </table>
 
-<b>
+<p><b></b></p>
 
 <table rules="none">
   <tr class="noBorder">
@@ -50,12 +44,12 @@ Alan
     </td>
     <td>
         <a href="https://ieeexplore.ieee.org/document/8395698">
-        <img alt="Paper link" src="assets/imgs/demand-response.png" width="80%" align="right"></a>
+        <img alt="Paper link" src="assets/imgs/demand-response.png" width="80%" align="right" /></a>
     </td>
   </tr>
 </table>
 
-<b>
+<p><b></b></p>
 
 <table rules="none">
   <tr class="noBorder">
@@ -68,12 +62,12 @@ Alan
     </td>
     <td>
         <a href="https://ieeexplore.ieee.org/document/8395586">
-        <img alt="Paper link" src="assets/imgs/undervoltage-load-shedding.png" width="100%" align="right"></a>
+        <img alt="Paper link" src="assets/imgs/undervoltage-load-shedding.png" width="100%" align="right" /></a>
     </td>
   </tr>
 </table>
 
-<b>
+<p><b></b></p>
 
 <table rules="none">
   <tr class="noBorder">
@@ -81,12 +75,13 @@ Alan
         <u1>
             <li> G. M. dos Santos Pereira, A. N. Tabata, F. J. Lachovicz, C. C. Durce and R. Kowaltschuk, 2018.
             <a href="https://ieeexplore.ieee.org/document/8756353">
-            Electrical Power Quality Analysis of Under Voltage Load Shedding with a Battery Energy Storage System Support in the Brazilian Context. EPIM 2018, Uruguay.</a></li>
+            Analysis of undervoltage load shedding by conservation voltage reduction. EPIM 2018, Niteroi.</a></li>
         </u1>
     </td>
     <td>
         <a href="https://ieeexplore.ieee.org/document/8756353">
-        <img alt="Paper link" src="assets/imgs/under-voltage-battery.png" width="100%" align="right"></a>
+        <img alt="Paper link" src="assets/imgs/undervoltage-load-shedding.png" width="100%" align="right" /></a>
     </td>
   </tr>
 </table>
+:ET
