@@ -1,47 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Alan Naoto</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Alan Naoto" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Is building stuff" />
-<meta property="og:description" content="Is building stuff" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Alan Naoto" />
-<script type="application/ld+json">
-{"@type":"WebSite","url":"http://localhost:4000/","name":"Alan Naoto","headline":"Alan Naoto","description":"Is building stuff","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <!-- <link rel="stylesheet" href="/assets/css/style.css?v="> -->
-    <link rel="stylesheet" href='/assets/css/style.css'>
-    <link rel="stylesheet" href='/assets/css/header.css'>
-    <link rel="stylesheet" href='/assets/css/project_cards.css'>
-  </head>
-  
-  <body>    
-    <!--Creating page navigation buttons-->
-    <div class="topnav">        
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>                      
-      <a href="contact.html">Contact</a>
-    </div>
-    
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Alan Naoto</h1>
-      <h2 class="project-tagline">Is building stuff</h2>
-    </header>
-      
-    <main id="content" class="main-content" role="main">     
-      <h1 id="projects">Projects</h1>
+I"Š<h1 id="projects">Projects</h1>
 
 <!-- CARLA dataset -->
 <div class="card" style="float: left; width: 49%">
@@ -79,9 +36,4 @@
 
 <!-- References -->
 <!-- project-page.png made by Sergey Ershov from https://www.iconfinder.com/icons/2850903/document_file_menu_page_paper_icon-->
-
-      <footer class="site-footer">        
-      </footer>
-    </main>
-  </body>
-</html>
+:ET

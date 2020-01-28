@@ -1,6 +1,7 @@
 ---
 layout: project-individual
-title: Project 3
+title: Object detection
 ---
 
-# Exploring abc
+# Exploring varied object detection architectures
+

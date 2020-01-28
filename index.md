@@ -9,11 +9,11 @@ description: Is building stuff
 <!-- CARLA dataset -->
 <div class="card" style="float: left; width: 49%">
     <div class="iframe-container">
-        <iframe src="https://www.youtube.com/embed/LgSwWo82wC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/gEMXanC8I6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>                
     <div class="container">
         <h4><b><a href="project-1.html" class="project-link">CARLA dataset collector</a></b></h4>
-        Build a dataset for machine learning automotive applications
+        Build an automotive dataset for machine learning applications
         <br>
         <a href="https://github.com/AlanNaoto/carla-dataset-runner"><img alt="Source code" src="assets/imgs/GitHub-Mark-64px.png" width="10%"></a>
         <a href="project-1.html"><img alt="Project page" src="assets/imgs/project-page.png" width="7.5%"></a>
