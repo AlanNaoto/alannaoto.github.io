@@ -33,7 +33,7 @@ description: Is building stuff
 </div>
 
 <div class="card" style="float: left; width: 49%">        
-    <img src="assets/imgs/rasp_pi_movidius.png" alt="raspberry_pi_3b+">
+    <a href="project-3.html"><img src="assets/imgs/rasp_pi_movidius.png" alt="raspberry_pi_3b+"></a>
     <div class="container">          
         <h4><b><a href="project-3.html" class="project-link">Object detection benchmarking</a></b></h4>
         Comparing Raspberry Pi 3 Model B+'s inference performance with CPU and with Movidius Neural Compute stick
