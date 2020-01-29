@@ -1,0 +1,19 @@
+I"�<h1 id="exploring-varied-object-detection-architectures">Exploring varied object detection architectures</h1>
+
+<div class="card">
+    <div class="iframe-container">
+        <iframe src="https://www.youtube.com/embed/gEMXanC8I6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>    
+<br />
+<a href="https://github.com/AlanNaoto/carla-dataset-runner"> <img src="assets/imgs/GitHub-Mark-64px.png" width="5%" />
+<b>Take a peek into the source code :hugs: </b></a>
+</div>
+
+<p>When deploying machine learning models to the real world, specially in resource constrained environments, 
+then model size and complexity plays a big role into determining it’s usability, i.e.: will it make
+predictions that are correct and also in a reasonable time?</p>
+
+<p>In order to have an idea of the impact that your hardware has on the object detection task, I’m presenting to you
+a benchmark on a set of  the following hardware</p>
+
+:ET

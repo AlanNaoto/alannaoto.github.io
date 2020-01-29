@@ -1,0 +1,40 @@
+I"Ø<h1 id="projects">Projects</h1>
+
+<!-- CARLA dataset -->
+<div class="card" style="float: left; width: 49%">
+    <div class="iframe-container">
+        <iframe src="https://www.youtube.com/embed/gEMXanC8I6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>                
+    <div class="container">
+        <h4><b><a href="project-1.html" class="project-link">CARLA dataset collector</a></b></h4>
+        Build an automotive dataset for machine learning applications
+        <br />
+        <a href="https://github.com/AlanNaoto/carla-dataset-runner"><img alt="Source code" src="assets/imgs/GitHub-Mark-64px.png" width="10%" /></a>
+        <a href="project-1.html"><img alt="Project page" src="assets/imgs/project-page.png" width="7.5%" /></a>
+    </div>
+</div>
+
+<!-- Classification annotation tool -->
+<div class="card" style="float: right; width: 49%">        
+    <a href="project-2.html"><img src="assets/imgs/classification_tool.png" alt="GUI for the tool" /></a>
+    <div class="container">
+        <h4><b><a href="project-2.html" class="project-link">Classification labelling tool</a></b></h4>
+        Clean your dataset
+        <br />
+        <a href="https://github.com/AlanNaoto/Dataset_GUI_labelling_tool"><img alt="Source code" src="assets/imgs/GitHub-Mark-64px.png" width="10%" /></a>
+        <a href="project-2.html"><img alt="Project page" src="assets/imgs/project-page.png" width="7.5%" /></a>
+    </div>
+</div>
+
+<div class="card" style="float: left; width: 49%">        
+    <img src="cat.jpeg" alt="Catzie" />
+    <div class="container">          
+        <h4><b><a href="project-3.html" class="project-link">Object detection benchmarking</a></b></h4>
+        Raspberry Pi 3 Model B+ performance with CPU and 
+        <p>PlaceHolder</p>
+    </div>
+</div>
+
+<!-- References -->
+<!-- project-page.png made by Sergey Ershov from https://www.iconfinder.com/icons/2850903/document_file_menu_page_paper_icon-->
+:ET

@@ -1,0 +1,78 @@
+I"[	<h1 id="exploring-varied-object-detection-architectures">Exploring varied object detection architectures</h1>
+
+<div class="card">
+    <div class="iframe-container">
+        <iframe src="https://www.youtube.com/embed/gEMXanC8I6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>        
+    </div>    
+    * Videos have been sped up so that it is not so boring! I set the faster clip to 30 FPS and the other
+    at 9.4 FPS, so the proportional relation still maintains.
+</div>
+
+<p>When deploying machine learning models to the real world, specially in resource constrained environments, 
+then model size and complexity plays a big role into determining it’s usability, i.e.: will it make
+predictions that are correct and also in a reasonable time?</p>
+
+<p>In order to have a general idea of the impact that your hardware has on <strong>processing time</strong> for the object detection task, I’m presenting to you
+a preliminary benchmark table on a set of 1600 JPEG frames with 1280x720 resolution on the following hardware:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Hardware</th>
+      <th>CPU</th>
+      <th>RAM</th>
+      <th>Graphics card</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Raspberry Pi 3 B+</td>
+      <td>1.4GHz 64-bit quad-core ARM Cortex-A53 CPU</td>
+      <td>1GB LPDDR2 SDRAM</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Raspberry Pi 3 B+</td>
+      <td>1.4GHz 64-bit quad-core ARM Cortex-A53 CPU</td>
+      <td>1GB LPDDR2 SDRAM</td>
+      <td>Movidius Neural Compute Stick (not a video card, but helps for GPU processing)</td>
+    </tr>
+    <tr>
+      <td>Dell G3 15</td>
+      <td>Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz</td>
+      <td>8GB SODIMM DDR4 Synchronous</td>
+      <td>GeForce GTX 1050 Mobile</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>And the results for a MobileNet with SSD architecture with 22.1 MB:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Hardware</th>
+      <th>FPS</th>
+      <th>Time per frame (s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Raspberry Pi 3 B+ on CPU</td>
+      <td>1.479</td>
+      <td>0.676</td>
+    </tr>
+    <tr>
+      <td>Raspberry Pi 3 B+ with Movidius NCU</td>
+      <td>4.721</td>
+      <td>0.212</td>
+    </tr>
+    <tr>
+      <td>Dell G3 15 on GPU</td>
+      <td>xxx</td>
+      <td>xxx</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

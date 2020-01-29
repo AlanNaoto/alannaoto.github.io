@@ -33,10 +33,12 @@ description: Is building stuff
 </div>
 
 <div class="card" style="float: left; width: 49%">        
-    <img src="cat.jpeg" alt="Catzie">
+    <img src="assets/imgs/rasp_pi_movidius.png" alt="raspberry_pi_3b+">
     <div class="container">          
-        <h4><b><a href="project-3.html" class="project-link">Project 3</a></b></h4>
-        <p>PlaceHolder</p>
+        <h4><b><a href="project-3.html" class="project-link">Object detection benchmarking</a></b></h4>
+        Comparing Raspberry Pi 3 Model B+'s inference performance with CPU and with Movidius Neural Compute stick
+        <br>
+        <a href="project-3.html"><img alt="Project page" src="assets/imgs/project-page.png" width="7.5%"></a>
     </div>
 </div>
 
