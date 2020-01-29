@@ -14,10 +14,10 @@ title: Object detection benchmarking
 </div>
 
 When deploying machine learning models to the real world, specially in resource constrained environments, 
-then model size and complexity plays a big role into determining it's usability, i.e.: will it make
-predictions that are correct and also in a reasonable time? 
+model size and complexity plays a big role into determining an application's usability, i.e.: will it make
+predictions that are correct and also fast enough? 
 
-In order to have a general idea of the impact that your hardware has on **processing time** for the object detection task, I'm presenting to you
+In order to have a general idea of your hardware impact on **processing time** for object detection, I've made
 a preliminary benchmark table on a set of 1600 JPEG frames with 1280x720 resolution on the following hardware:
 
 | Hardware | CPU | RAM | Graphics card |
@@ -26,7 +26,7 @@ a preliminary benchmark table on a set of 1600 JPEG frames with 1280x720 resolut
 | Raspberry Pi 3 B+ | 1.4GHz 64-bit quad-core ARM Cortex-A53 CPU | 1GB LPDDR2 SDRAM | Movidius Neural Compute Stick (not a video card, but helps for GPU processing) |
 | Dell G3 15 | Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz | 8GB SODIMM DDR4 Synchronous | GeForce GTX 1050 Mobile |
 
-And the results for a MobileNet with SSD architecture with 22.1 MB:
+Making inferences on top of a MobileNet with SSD architecture and weights totalling 22.1 MB:
 
 | Hardware | FPS | Time per frame (s)|
 |----------|-----|-------------------|
