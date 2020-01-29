@@ -1,6 +1,7 @@
 ---
 layout: project-individual
 title: Object detection benchmarking
+description: Comparing hardware performance
 ---
 
 # Exploring varied object detection architectures
