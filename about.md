@@ -5,11 +5,7 @@ description: A (very) short bio
 ---
 # Hey there!
 
-Currently an intern at Audi Electronics Venture developing software for virtual simulations.
-At the same time, I'm finishing my master's double degree between Federal University of
-Parana (Brazil) and Technische Hochschule Ingolstadt (Germany) on electrical and
-international automotive engineering.
-
+Currently an intern at Audi Electronics Venture developing software for virtual simulations. At the same time, I'm finishing my master's double degree between Federal University of Parana (Brazil) and Technische Hochschule Ingolstadt (Germany) on electrical and international automotive engineering.
 
 In my spare time I enjoy building and sharing some of my programs with the community.
 Feel free to take a look around!
